@@ -1,7 +1,9 @@
 # My Team "GodKingNathanielCohen" Strategy Code
-Rank #1     Win/Loss/Tie: 14/1/1
+Rank #1
 
-[Strategy Code](https://github.com/karywjh/MechMania-2019/blob/master/src/main/java/mech/mania/StarterPack/Strategy_basic.java)
+Win/Loss/Tie: 14/1/1
+
+[Our Strategy Code](https://github.com/karywjh/MechMania-2019/blob/master/src/main/java/mech/mania/StarterPack/Strategy_basic.java)
 
 # MechMania25 Java Starter Pack
 
