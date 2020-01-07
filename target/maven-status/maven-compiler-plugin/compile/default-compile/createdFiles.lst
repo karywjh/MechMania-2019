@@ -1,0 +1,16 @@
+mech/mania/API/GameState.class
+mech/mania/StarterPack/GameOver.class
+mech/mania/API/Tile.class
+mech/mania/API/Turn.class
+mech/mania/API/UnitSetup.class
+mech/mania/API/Board.class
+mech/mania/API/Position.class
+mech/mania/StarterPack/Strategy.class
+mech/mania/ServerApplication.class
+mech/mania/API/Decision.class
+mech/mania/API/Direction.class
+mech/mania/StarterPack/Server.class
+mech/mania/API/Tile$Type.class
+mech/mania/StarterPack/GameInit.class
+mech/mania/API/Unit.class
+mech/mania/API/Pair.class
